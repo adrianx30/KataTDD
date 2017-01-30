@@ -23,6 +23,7 @@ public class Calculator {
 					total += Integer.parseInt(params[i]);					
 				}
 				return total;
+				
 			}
 			return Integer.parseInt(numbers);
 		}
